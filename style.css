@@ -20,7 +20,7 @@ body {
   background-color: azure;
 }
 p {
-  text-align: center;
+  display: block;
 }
 .coder-name {
   text-decoration: none;
