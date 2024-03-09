@@ -19,3 +19,9 @@ img {
 body {
   background-color: azure;
 }
+p {
+  text-align: center;
+}
+.coder-name {
+  text-decoration: none;
+}
