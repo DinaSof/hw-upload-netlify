@@ -20,6 +20,6 @@ body {
   background-color: azure;
 }
 p {
-  display: block;
+  text-align: center;
   font-weight: smaller;
 }
